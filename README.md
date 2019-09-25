@@ -1,2 +1,2 @@
 # MINOR
-COLLEGE MINOR PROJECT ON FINDING CLLUSIVE RETEWEETERS 
+College Minor Project for Detecting Collusive Retweeters.
